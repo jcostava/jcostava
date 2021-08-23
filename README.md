@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @jcostava
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning c# and python
-- 💞️ 
-- 📫 
